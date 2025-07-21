@@ -3,3 +3,5 @@ Phishing attacks threaten online security, deceiving users into divulging sensit
 
 
 Link for Dataset used: https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset 
+
+Paper is available in the Curieux Academic Journal and also as a preprint in the engrXiv here: https://doi.org/10.31224/4908
